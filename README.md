@@ -31,7 +31,22 @@ values against performance.
 - **Dynamic Filtering**: Ability to filter by product, customer, customer city, category and sub category.  
 - **Time-based Analysis**: A 2-year historical view of sales trends.  
 - **Budget vs. Actual**: Performance comparison to budgeted sales.  
+<p align="center">
+  <a href="https://app.powerbi.com/groups/me/reports/35a416b4-c82c-4b67-83c3-9959286612cd/ReportSection?experience=power-bi">
+    <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/SalesOverview.png" alt="Sales Overview Dashboard" width="33%"/>
+  </a>
+  <a href="https://app.powerbi.com/groups/me/reports/35a416b4-c82c-4b67-83c3-9959286612cd/ReportSection?experience=power-bi">
+    <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/Customer.png" alt="Customer Dashboard" width="33%"/>
+  </a>
+  <a href="https://app.powerbi.com/groups/me/reports/35a416b4-c82c-4b67-83c3-9959286612cd/ReportSection?experience=power-bi">
+    <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/Products.png" alt="Product Dashboard" width="33%"/>
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/SQL.png" alt="Alt Text" width="25%"/>
+  <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/Model.png" alt="Alt Text" width="30%"/>
+</p>
 
 ## Dashboards Overview
 
@@ -50,34 +65,9 @@ values against performance.
    - Displays sales trends for each product over time.
    - Highlights top-performing products.  
 
-<p align="center">
-  <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/SalesOverview.png" alt="Alt Text" width="33%"/>
-  <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/Customer.png" alt="Alt Text" width="33%"/>
-  <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/Products.png" alt="Alt Text" width="33%"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/SQL.png" alt="Alt Text" width="35%"/>
-  <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/Model.png" alt="Alt Text" width="45%"/>
-</p>
 
 
 
-<p align="center">
-  <a href="https://app.powerbi.com/groups/me/reports/35a416b4-c82c-4b67-83c3-9959286612cd/ReportSection?experience=power-bi">
-    <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/SalesOverview.png" alt="Sales Overview Dashboard" width="33%"/>
-  </a>
-  <a href="https://app.powerbi.com/groups/me/reports/35a416b4-c82c-4b67-83c3-9959286612cd/ReportSection?experience=power-bi">
-    <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/Customer.png" alt="Customer Dashboard" width="33%"/>
-  </a>
-  <a href="https://app.powerbi.com/groups/me/reports/35a416b4-c82c-4b67-83c3-9959286612cd/ReportSection?experience=power-bi">
-    <img src="https://github.com/hhuseyincosgun/Sales-Manangement/blob/main/Pictures/Products.png" alt="Product Dashboard" width="33%"/>
-  </a>
-</p>
+- [Power BI Sales Manangement Dashboard](https://app.powerbi.com/groups/me/reports/35a416b4-c82c-4b67-83c3-9959286612cd/ReportSection?experience=power-bi)
 
-
-
-# References
-
-- [Ali Ahmad YouTube Channel](https://www.youtube.com/watch?v=ML1CR3CNnI8&list=PLMfXakCUhXsEUtk8c0zWr4whamGxLhAu0&index=5)
+- For more guidance on creating dynamic dashboards, you can refer to the [Ali Ahmad YouTube Channel](https://www.youtube.com/watch?v=ML1CR3CNnI8&list=PLMfXakCUhXsEUtk8c0zWr4whamGxLhAu0&index=5), which provides tutorials on Power BI and similar topics.
